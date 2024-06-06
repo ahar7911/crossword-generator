@@ -1,4 +1,4 @@
-# crossword-generator
+# Crossword Generator
 Project for Thomas Jefferson High School for Science and Technology's Artifical Intelligence class
 
 Generates 180-degree rotationally symmetric crosswords of a specific dimension and specific number of blocked-out squares, given a list of possible words.
